@@ -1,1 +1,1 @@
-logiciel perso pour de la gestion locative 
+logiciel perso pour de la gestion locative en cours de dev
